@@ -1,7 +1,8 @@
-package com.example.gof.structure.adaptor_pattern.client;
+package com.example.gof.structure.adaptor_pattern;
 
 import com.example.gof.structure.adaptor_pattern.adaptee.AccountService;
 import com.example.gof.structure.adaptor_pattern.adaptor.AccountUserDetailsService;
+import com.example.gof.structure.adaptor_pattern.client.LoginHandler;
 import com.example.gof.structure.adaptor_pattern.target.UserDetailsService;
 
 public class AdaptorApp {
@@ -14,3 +15,4 @@ public class AdaptorApp {
     System.out.println(login);
   }
 }
+ 
