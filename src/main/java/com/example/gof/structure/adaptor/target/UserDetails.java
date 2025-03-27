@@ -1,4 +1,4 @@
-package com.example.gof.structure.adaptor_pattern.target;
+package com.example.gof.structure.adaptor.target;
 
 public interface UserDetails {
 

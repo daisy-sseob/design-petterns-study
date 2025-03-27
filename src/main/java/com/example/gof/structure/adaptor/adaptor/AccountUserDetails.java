@@ -1,7 +1,7 @@
-package com.example.gof.structure.adaptor_pattern.adaptor;
+package com.example.gof.structure.adaptor.adaptor;
 
-import com.example.gof.structure.adaptor_pattern.adaptee.Account;
-import com.example.gof.structure.adaptor_pattern.target.UserDetails;
+import com.example.gof.structure.adaptor.adaptee.Account;
+import com.example.gof.structure.adaptor.target.UserDetails;
 import lombok.Getter;
 
 @Getter

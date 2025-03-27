@@ -1,4 +1,4 @@
-package com.example.gof.structure.adaptor_pattern.adaptee;
+package com.example.gof.structure.adaptor.adaptee;
 
 public class AccountService {
 
