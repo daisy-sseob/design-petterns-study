@@ -1,7 +1,7 @@
-package com.example.gof.structure.adaptor_pattern.client;
+package com.example.gof.structure.adaptor.client;
 
-import com.example.gof.structure.adaptor_pattern.target.UserDetails;
-import com.example.gof.structure.adaptor_pattern.target.UserDetailsService;
+import com.example.gof.structure.adaptor.target.UserDetails;
+import com.example.gof.structure.adaptor.target.UserDetailsService;
 
 public class LoginHandler {
 

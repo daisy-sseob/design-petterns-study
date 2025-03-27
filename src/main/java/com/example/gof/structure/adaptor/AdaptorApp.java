@@ -1,9 +1,9 @@
-package com.example.gof.structure.adaptor_pattern;
+package com.example.gof.structure.adaptor;
 
-import com.example.gof.structure.adaptor_pattern.adaptee.AccountService;
-import com.example.gof.structure.adaptor_pattern.adaptor.AccountUserDetailsService;
-import com.example.gof.structure.adaptor_pattern.client.LoginHandler;
-import com.example.gof.structure.adaptor_pattern.target.UserDetailsService;
+import com.example.gof.structure.adaptor.adaptee.AccountService;
+import com.example.gof.structure.adaptor.adaptor.AccountUserDetailsService;
+import com.example.gof.structure.adaptor.client.LoginHandler;
+import com.example.gof.structure.adaptor.target.UserDetailsService;
 
 public class AdaptorApp {
 
